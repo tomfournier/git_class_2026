@@ -8,6 +8,8 @@ Raspberry Buttermilk Cake a super easy and tender dessert with a hint of tangy d
 
 Perfect alongside a great cup of tea or coffee, or at the end of a wonderful summer dinner, this Raspberry Buttermilk Cake will soon become your favorite dessert.
 
+![Image of Raspberry Buttermilk Cake](recipes/raspberry.jpg)
+
 ## Ingredients:
 
 - 1 ½ cups flour
