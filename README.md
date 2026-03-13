@@ -21,3 +21,5 @@ Yet again another local modification
 Yet again another remote modification
 
 Remote edit
+
+Local edit
