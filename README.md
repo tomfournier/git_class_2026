@@ -19,3 +19,5 @@ This is yet another line modified on github
 Yet again another local modification
 
 Yet again another remote modification
+
+Remote edit
