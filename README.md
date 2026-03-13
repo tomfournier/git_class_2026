@@ -17,3 +17,5 @@ This is another line modified locally
 This is yet another line modified on github
 
 Yet again another local modification
+
+Yet again another remote modification
